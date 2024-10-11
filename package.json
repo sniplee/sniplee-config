@@ -1,0 +1,29 @@
+{
+  "name": "sniplee-config",
+  "version": "0.0.1",
+  "description": "Sniplee’s standard configurations for typescript, biome and more!",
+  "type": "module",
+  "files": [
+    "src"
+  ],
+  "exports": {
+    "./typescript": "./src/tsconfig.json",
+    "./biome": "./src/biome.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sniplee/sniplee-config.git"
+  },
+  "keywords": [
+    "sniplee",
+    "config"
+  ],
+  "contributors": [
+    "Jonathan <jonathan_abouhaidar@icloud.com>"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sniplee/sniplee-config/issues"
+  },
+  "homepage": "https://github.com/sniplee/sniplee-config#readme"
+}
