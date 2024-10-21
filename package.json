@@ -1,6 +1,6 @@
 {
   "name": "sniplee-config",
-  "version": "0.0.1",
+  "version": "0.0.1-dev.0",
   "description": "Sniplee’s standard configurations for typescript, biome and more!",
   "type": "module",
   "files": [
