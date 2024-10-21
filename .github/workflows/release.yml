@@ -63,7 +63,6 @@ jobs:
           --conventional-prerelease \
           --message "chore(release): publish dev" \
           --no-changelog \
-          --no-git-tag-version \
           --preid dev \
           --yes
           pnpm lerna publish from-package \
