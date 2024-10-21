@@ -122,6 +122,9 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+# Stores custom attributes related to the parent folder, macOS only 
+.DS_store
+
 # yarn v2
 .yarn/cache
 .yarn/unplugged

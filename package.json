@@ -25,5 +25,19 @@
   "bugs": {
     "url": "https://github.com/sniplee/sniplee-config/issues"
   },
-  "homepage": "https://github.com/sniplee/sniplee-config#readme"
+  "homepage": "https://github.com/sniplee/sniplee-config#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^19.5.0",
+    "@commitlint/config-conventional": "^19.5.0",
+    "@favware/npm-deprecate": "^1.0.7",
+    "husky": "^9.1.6",
+    "lerna": "^8.1.8"
+  },
+  "scripts": {
+    "prepare": "husky"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  }
 }
