@@ -8,7 +8,8 @@
   ],
   "exports": {
     "./tsconfig.base": "./src/tsconfig/base.json",
-    "./biome": "./src/biome/base.json"
+    "./tsconfig.next": "./src/tsconfig/next.json",
+    "./biome.base": "./src/biome/base.json"
   },
   "repository": {
     "type": "git",
