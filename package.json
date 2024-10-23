@@ -7,8 +7,9 @@
     "src"
   ],
   "exports": {
-    "./typescript": "./src/tsconfig.json",
-    "./biome": "./src/biome.json"
+    "./tsconfig.base": "./src/tsconfig/base.json",
+    "./tsconfig.next": "./src/tsconfig/next.json",
+    "./biome": "./src/biome/base.json"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,7 @@
   },
   "homepage": "https://github.com/sniplee/sniplee-config#readme",
   "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
     "@commitlint/cli": "^19.5.0",
     "@commitlint/config-conventional": "^19.5.0",
     "@favware/npm-deprecate": "^1.0.7",
