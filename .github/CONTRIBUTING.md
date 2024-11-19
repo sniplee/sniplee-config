@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for your interest in contributing to sniplee-config!
+Thank you for your interest in contributing!
 We appreciate your efforts to help improve and maintain the consistency of our configurations across projects.
 
 ## Getting started
@@ -15,4 +15,4 @@ We appreciate your efforts to help improve and maintain the consistency of our c
 
 ### Thank You!
 
-Your contributions are valuable to us and help ensure that sniplee-config remains reliable and consistent across all projects. Thank you for your support and collaboration!
+Your contributions are valuable to us and help ensure reliablility and consistency across all projects. Thank you for your support and collaboration!
